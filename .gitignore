@@ -1,0 +1,11 @@
+.vscode/
+__pycache__/
+*.bat
+*.cmd
+*.yaml
+*.yml
+*.exe
+*.manifest
+*.mum
+*.cat
+*.cab
