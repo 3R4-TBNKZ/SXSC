@@ -9,8 +9,6 @@
 
 A fork of [`3R4-TBNKZ`/sxsc](https://github.com/3R4-TBNKZ/sxsc) (the SxS compiler - pronounced sxs-see) for use in automatic package building for [3R4](https://github.com/3R4-TBNKZ/3R4-OS/actions/runs/13467550418).
 
-GNU General Public License v3.0 [license](https://github.com/3R4-TBNKZ/SXSC/blob/main/LICENSE).
-
 ### Changes
 - Removed binaries
   - They are included [by default](https://github.com/3R4-TBNKZ/SXSC/blob/main/installed-windows-sdks.md) in the `windows-latest` GitHub Action runner
